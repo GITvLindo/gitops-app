@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_USERNAME/my-first-gitops-app.git
+    repoURL: https://github.com/GITvLindo/gitops-app.git
     targetRevision: main
     path: manifests
 
